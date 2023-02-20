@@ -1,2 +1,2 @@
-*.sqlite3
+/cross_zeros/*.sqlite3
 /picture
